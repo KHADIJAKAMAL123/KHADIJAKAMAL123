@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijakamal6002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KHADIJAKAMAL123)
 
-![Profile Views](https://komarev.com/ghvc/?username=KHADIJAKAMAL123&label=Profile%20Views&color=8a2be2&style=flat-square)
 
 </div>
 
@@ -19,7 +18,7 @@
 name     : Khadija Kamal
 location : Karachi, Pakistan
 degree   : B.Eng Software Engineering — Sir Syed University (2023–2027)
-cgpa     : 3.6 / 4.0
+cgpa     : 3.6 - 3.7
 status   : Open to Internship Opportunities
 focus    : Full-Stack Web Development · AI-Powered Applications
 
