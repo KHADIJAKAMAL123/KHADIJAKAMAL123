@@ -18,7 +18,7 @@
   <!-- 2. LET'S CONNECT SECTION -->
   <h3>🌸 Let's Connect 🌸</h3>
   <p>
-    <a href="https://khadijakamal.vercel.app" target="_blank">
+    <a href="https://my-portfolio-kkto.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/khadija-kamal-264346283" target="_blank">
@@ -135,7 +135,7 @@
       <p>🏷️ <code>Python</code> <code>HTML5</code> <code>CSS3</code> <code>JS</code> <code>Bootstrap</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/KHADIJAKAMAL123/Enhanced-CPU-Scheduling-Simulator">Enhanced CPU Scheduler</a></h3>
+      <h3>⚡ <a href="https://github.com/KHADIJAKAMAL123/Median-Dynamic-RR-OS-Simulator">Enhanced CPU Scheduler</a></h3>
       <p><b>Round-Robin Algorithm Benchmark Simulator</b></p>
       <p>A simulation engine computing burst times, waiting times, and turnarounds to benchmark process scheduling efficiency.</p>
       <p>🏷️ <code>Java</code> <code>HTML5</code> <code>CSS3</code> <code>JS</code> <code>Bootstrap</code></p>
@@ -149,7 +149,7 @@
       <p>🏷️ <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏡 <a href="https://github.com/KHADIJAKAMAL123/Modern-Room-Styler">Modern Room Styler</a></h3>
+      <h3>🏡 <a href="https://github.com/KHADIJAKAMAL123/RoomStyler">Modern Room Styler</a></h3>
       <p><b>Interior Styling & Room Design Platform</b></p>
       <p>A web application for exploring interior design concepts, cataloging room layouts, and managing modern aesthetics.</p>
       <p>🏷️ <code>.NET</code> <code>C#</code> <code>MongoDB</code> <code>Bootstrap</code></p>
@@ -157,7 +157,7 @@
   </tr>
   <tr>
     <td colspan="2" width="100%" valign="top" align="center">
-      <h3>🌐 <a href="https://github.com/KHADIJAKAMAL123/Personal-Portfolio">Personal Portfolio Website</a></h3>
+      <h3>🌐 <a href="https://github.com/KHADIJAKAMAL123/My-Portfolio">Personal Portfolio Website</a></h3>
       <p>Interactive, responsive portfolio showcasing personal projects, technical achievements, and background.</p>
       <p>🏷️ <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Bootstrap</code></p>
     </td>
