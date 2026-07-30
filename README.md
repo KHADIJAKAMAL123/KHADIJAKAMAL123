@@ -37,16 +37,6 @@ I am a Software Engineering student passionate about developing scalable web pla
 
 ---
 
-## 🛠 Tech Stack 
-
-### Languages
-
-### Frameworks & Technologies
-
-### Databases & Tools
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
