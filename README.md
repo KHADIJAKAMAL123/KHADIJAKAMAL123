@@ -1,21 +1,19 @@
 <div align="center">
 
- <!-- Header Banner -->
+  <!-- 1. Header Banner -->
   <a href="https://github.com/KHADIJAKAMAL123">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=24,1,34&height=220&section=header&text=Khadija%20Kamal&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=200&section=header&text=Khadija%20Kamal&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlign=50&descAlignY=70" width="100%" alt="Header Banner" />
   </a>
-
-  <br/><br/>
 
   <!-- Large Centered Title -->
   <h1>Hey there, I'm Khadija Kamal 👋</h1>
 
   <!-- Typing Animation -->
   <a href="https://github.com/KHADIJAKAMAL123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EF93C4&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Developer;Software+Engineering+Undergraduate;Building+Scalable+Web+%26+Algorithmic+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E91E63&center=true&vcenter=true&width=600&height=45&lines=Full-Stack+Developer;Software+Engineering+Undergraduate;Building+Scalable+Web+%26+Algorithmic+Apps" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+  <br/>
 
   <!-- 2. LET'S CONNECT SECTION -->
   <h3>🌸 Let's Connect 🌸</h3>
@@ -34,8 +32,6 @@
     </a>
   </p>
 
-  <br/>
-
   <!-- 3. PROFILE STATS & BADGES -->
   <p>
     <a href="https://github.com/KHADIJAKAMAL123?tab=followers">
@@ -47,9 +43,7 @@
     <img src="https://komarev.com/ghpvc/?username=KHADIJAKAMAL123&color=E91E63&style=flat-square&label=Profile+Views" alt="Profile Views Badge"/>
   </p>
 
-  <br/>
   <hr width="40%" style="border: 1px dashed #EF93C4;" />
-  <br/>
 
 </div>
 
@@ -57,11 +51,6 @@
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
 </div>
-
-<table border="1" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>Greetings! 👋</h3>
       <p>
         I am a dedicated <b>Software Engineering Student</b> at Sir Syed University of Engineering and Technology (SSUET) based in <b>Karachi, Pakistan</b> 📍 with a consistent CGPA of <b>3.6+ / 4.0</b>.
       </p>
@@ -72,38 +61,26 @@
         <li>🎓 <b>Education:</b> BS in Software Engineering @ SSUET</li>
         <li>💡 <b>Core Focus:</b> Software Architecture, Full-Stack Applications, Database ERDs</li>
         <li>📜 <b>Certification:</b> Data Science & Analytics (UBIT, University of Karachi)</li>
-        <li>🌱 <b>Learning:</b> Currently expanding expertise in <b>Modern System Design</b>, <b>Full-Stack Frameworks</b>, and <b>Database Engineering</li>
+        <li>🌱 <b>Learning:</b> Currently expanding expertise in <b>Modern System Design</b>, <b>Full-Stack Frameworks</b>, and <b>Database Engineering</b></li>
         <li>🚀 Built applications like <b>NutriSync</b>, <b>Enhanced CPU Scheduling Simulator</b>, and <b>Gleam Atelier</b>.</li>
         <li>🎯 <b>Goal:</b> Engineer high-impact, user-centric software products that solve complex real-world problems.</li>
         <li>💡 Passionate about clean architecture, open source, and continuous technical growth.</li>
         <li>📫 <b>Reach Me:</b> <a href="mailto:khadijakamal6002@gmail.com">khadijakamal6002@gmail.com</a></li>
       </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #EF93C4;" alt="Coding Animation">
-    </td>
-  </tr>
-</table>
 
-<br/>
 <hr width="80%" style="border: 1px dashed #EF93C4;" />
-<br/>
 
 <!-- 5. TECH STACK SECTION -->
 <div align="center">
   <h2>🛠️ Tech Stack & Skills 🛠️</h2>
   <p>Here are the technologies, languages, and tools I work with:</p>
 
-  
   <!-- Centered Tech Stack Icons -->
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,mongodb,tailwind,git,github,vscode,npm,cs,dotnet" alt="Tech Stack Icons" />
     </a>
   </p>
-
-
-  <br/>
 
   <h4>💻 Languages</h4>
   <p>
@@ -142,9 +119,7 @@
   </p>
 </div>
 
-<br/>
 <hr width="80%" style="border: 1px dashed #EF93C4;" />
-<br/>
 
 <!-- 6. FEATURED PROJECTS SECTION -->
 <div align="center">
@@ -189,9 +164,7 @@
   </tr>
 </table>
 
-<br/>
 <hr width="80%" style="border: 1px dashed #EF93C4;" />
-<br/>
 
 <!-- 7. ACHIEVEMENTS SECTION -->
 <div align="center">
@@ -206,24 +179,22 @@
   </ul>
 </p>
 
-<br/>
 <hr width="80%" style="border: 1px dashed #EF93C4;" />
-<br/>
 
 <!-- 8. GITHUB ANALYTICS & GRAPHS -->
 <div align="center">
   <h2>📊 GitHub Analytics 📊</h2>
 
-  <br/>
-
   <!-- STREAK STATS & MOST USED LANGUAGES -->
   <p align="center">
-    <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=KHADIJAKAMAL123&theme=radical&background=0D1117&border=EF93C4&stroke=FF69B4&ring=E91E63&fire=E91E63&currStreakNum=FF69B4&sidenums=F8BBD0&sidelabels=EF93C4&dates=F8BBD0" alt="GitHub Streak Stats"/>
-    &nbsp;&nbsp;
-    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHADIJAKAMAL123&layout=compact&bg_color=0D1117&title_color=E91E63&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" alt="Most Used Languages"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KHADIJAKAMAL123&theme=radical&background=0D1117&border=EF93C4&stroke=FF69B4&ring=E91E63&fire=E91E63&currStreakNum=FF69B4&sidenums=F8BBD0&sidelabels=EF93C4&dates=F8BBD0" alt="GitHub Streak Stats"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KHADIJAKAMAL123&layout=compact&theme=dark&bg_color=0D1117&title_color=E91E63&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" alt="Most Used Languages"/>
+    </a>
   </p>
-
-  <br/>
 
   <!-- ACTIVITY GRAPH -->
   <p align="center">
@@ -231,23 +202,15 @@
   </p>
 </div>
 
-<br/>
 <hr width="80%" style="border: 1px dashed #EF93C4;" />
-<br/>
 
 <!-- 9. CONTRIBUTION SNAKE ANIMATION -->
-<!-- 
-  NOTE FOR GITHUB ACTION SNAKE SETUP:
-  To generate the output SVG dynamically, set up a GitHub Action workflow (.github/workflows/snake.yml) 
-  using Platane/snk@v3 targeting build/github-contribution-grid-snake.svg with pink palette accents.
--->
 <div align="center">
   <h2>🐍 Contribution Snake 🐍</h2>
-  <br/>
   <img width="100%" src="https://raw.githubusercontent.com/KHADIJAKAMAL123/KHADIJAKAMAL123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- 10. FOOTER SECTION -->
 <div align="center">
@@ -256,7 +219,7 @@
 
   <!-- Pink Capsule Render Waving Footer -->
   <a href="https://github.com/KHADIJAKAMAL123">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=24,1,34&height=120&section=footer" width="100%" alt="Footer Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=100&section=footer" width="100%" alt="Footer Banner" />
   </a>
 
 </div>
