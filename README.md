@@ -48,7 +48,7 @@
   </p>
 
   <br/>
-  <hr width="80%" style="border: 1px dashed #EF93C4;" />
+  <hr width="40%" style="border: 1px dashed #EF93C4;" />
   <br/>
 
 </div>
@@ -58,9 +58,10 @@
   <h2>🧑‍💻 About Me</h2>
 </div>
 
-<table border="0" width="100%">
+<table border="1" width="100%">
   <tr>
     <td width="65%" valign="top">
+      <h3>Greetings! 👋</h3>
       <p>
         I am a dedicated <b>Software Engineering Student</b> at Sir Syed University of Engineering and Technology (SSUET) based in <b>Karachi, Pakistan</b> 📍 with a consistent CGPA of <b>3.6+ / 4.0</b>.
       </p>
@@ -97,7 +98,7 @@
   <!-- Centered Tech Stack Icons -->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,py,mongodb,tailwind,git,github,vscode,npm,cs,dotnet" alt="Tech Stack Icons" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,mongodb,tailwind,git,github,vscode,npm,cs,dotnet" alt="Tech Stack Icons" />
     </a>
   </p>
 
@@ -217,9 +218,9 @@
 
   <!-- STREAK STATS & MOST USED LANGUAGES -->
   <p align="center">
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=KHADIJAKAMAL123&theme=radical&background=0D1117&border=EF93C4&stroke=FF69B4&ring=E91E63&fire=E91E63&currStreakNum=FF69B4&sidenums=F8BBD0&sidelabels=EF93C4&dates=F8BBD0" alt="GitHub Streak Stats"/>
+    <img height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=KHADIJAKAMAL123&theme=radical&background=0D1117&border=EF93C4&stroke=FF69B4&ring=E91E63&fire=E91E63&currStreakNum=FF69B4&sidenums=F8BBD0&sidelabels=EF93C4&dates=F8BBD0" alt="GitHub Streak Stats"/>
     &nbsp;&nbsp;
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHADIJAKAMAL123&layout=compact&bg_color=0D1117&title_color=E91E63&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" alt="Most Used Languages"/>
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHADIJAKAMAL123&layout=compact&bg_color=0D1117&title_color=E91E63&text_color=F8BBD0&icon_color=FF69B4&border_color=EF93C4" alt="Most Used Languages"/>
   </p>
 
   <br/>
