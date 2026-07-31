@@ -51,6 +51,9 @@
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
 </div>
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
       <p>
         I am a dedicated <b>Software Engineering Student</b> at Sir Syed University of Engineering and Technology (SSUET) based in <b>Karachi, Pakistan</b> 📍 with a consistent CGPA of <b>3.6+ / 4.0</b>.
       </p>
@@ -67,6 +70,12 @@
         <li>💡 Passionate about clean architecture, open source, and continuous technical growth.</li>
         <li>📫 <b>Reach Me:</b> <a href="mailto:khadijakamal6002@gmail.com">khadijakamal6002@gmail.com</a></li>
       </ul>
+       </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius: 15px; border: 2px solid #EF93C4;" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
 <hr width="80%" style="border: 1px dashed #EF93C4;" />
 
