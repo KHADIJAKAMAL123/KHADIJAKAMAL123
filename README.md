@@ -72,7 +72,7 @@
       </ul>
        </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" style="border-radius: 15px; border: 2px solid #EF93C4;" alt="Coding Animation">
+      <img src="github about img .png" alt="Coding Animation">
     </td>
   </tr>
 </table>
